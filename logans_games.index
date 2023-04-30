@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index>
+  <info>
+  <name>Logan's Games</name>
+        <update version="0.0.1">
+            <file name="logans_games.index" url="https://github.com/Sokkaiya/auroura_indexes/blob/logans_games/logans_games.index" />
+        </update>
+    </info>
+  <files>
+    <file name="logans_games.xml" url="https://github.com/Sokkaiya/auroura_indexes/blob/logans_games/logans_games.xml" />
+  </files>
+</index>
