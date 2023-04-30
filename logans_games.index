@@ -3,10 +3,10 @@
   <info>
   <name>Logan's Games</name>
         <update version="0.0.1">
-            <file name="logans_games.index" url="./logans_games.index" />
+            <file name="logans_games.index" url="https://www.github.com/Sokkaiya/auroura_indexes/logans_games/logans_games.index" />
         </update>
     </info>
   <files>
-    <file name="logans_games.xml" url="./logans_games/logans_games.xml" />
+    <file name="logans_games.xml" url="https://www.github.com/Sokkaiya/auroura_indexes/logans_games/logans_games.xml" />
   </files>
 </index>
