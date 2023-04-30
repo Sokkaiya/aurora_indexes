@@ -3,7 +3,7 @@
     <info>
 		<name>Logan's Homebrew</name>
 		<update version="0.0.1">
-			<file name="lognas_games.xml" />
+			<file name="logans_games.xml" />
 		</update>
 	</info>
     <element name="Yeetus" type="Magic Weapon" source="Kamchalla" id="ID_source_abbreviation_MAGIC_ITEM_name">
