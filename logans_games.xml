@@ -13,7 +13,7 @@
             <p class="flavor">This revolver rifle, crafted and cared for by Leon Asmodiansbrood, is his vision of the impetus of the Dragon God of Death, Asmodian. Other Dragon Gods have also granted their Blessings to this weapon for the hands of a Chosen.</p>
         </description>
         <sheet display="true">
-            <description>This revolver rifle, crafted and cared for by Leon Asmodiansbrood, is his vision of the impetus of the Dragon God of Death, Asmodian. Other Dragon Gods have also granted their Blessings to this weapon for the hands of a Chosen.</description>
+            <description>This revolver rifle, crafted and cared for by Leon Asmodiansbrood, is his vision of the impetus of the Dragon God of Death, Asmodian. Other Dragon Gods have also granted their Blessings to this weapon for the hands of a Chosen. </description>
         </sheet>
         <sheet action="Bonus Action" usage="1/day">
             <description>Gromak's Resolve</description>
